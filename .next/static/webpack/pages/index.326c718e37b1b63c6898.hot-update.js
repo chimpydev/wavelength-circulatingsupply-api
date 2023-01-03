@@ -31,7 +31,7 @@ function Home(_ref) {
     children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("main", {
       className: _styles_Home_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.main,
       children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-        href: "/",
+        href: "/about",
         children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("a", {
           children: "About Me >"
         }, void 0, false, {
