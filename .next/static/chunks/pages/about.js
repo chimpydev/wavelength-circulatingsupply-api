@@ -1,5 +1,5 @@
 _N_E =
-(window["webpackJsonp_N_E"] = window["webpackJsonp_N_E"] || []).push([["pages/about"],{
+(window["webpackJsonp_N_E"] = window["webpackJsonp_N_E"] || []).push([["pages/"],{
 
 /***/ "./node_modules/@babel/runtime/helpers/arrayLikeToArray.js":
 /*!*****************************************************************!*\
@@ -605,9 +605,9 @@ var assign=Object.assign.bind(Object);module.exports=assign;module.exports.defau
 
 
       (window.__NEXT_P = window.__NEXT_P || []).push([
-        "/about",
+        "/",
         function () {
-          return __webpack_require__(/*! ./pages/about.js */ "./pages/about.js");
+          return __webpack_require__(/*! ./pages/.js */ "./pages/.js");
         }
       ]);
     
@@ -10901,9 +10901,9 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./pages/about.js":
+/***/ "./pages/.js":
 /*!************************!*\
-  !*** ./pages/about.js ***!
+  !*** ./pages/.js ***!
   \************************/
 /*! exports provided: __N_SSG, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
